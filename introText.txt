@@ -1,0 +1,17 @@
+ 
+	*************************************************************************
+	This is a program for playing Zener Cards, to test for psychic ability.
+
+	The following chart represents the text interface for the familiar 
+	symbols of plus, circle, wavy, box, and star:
+
+	                      +     o      ~      #      *
+        	              p     o      w      r      s
+
+	Twenty-five guesses amongst five symbols with stats provided at the end.
+
+	Maximize this window for best experience and good luck!
+
+
+	      ---=<{ Stephen Hill https://github.com/stephenHillDevPro }>=---
+	*************************************************************************
